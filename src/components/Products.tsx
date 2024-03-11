@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { ProductProps } from "../../type";
 import { HiShoppingCart } from "react-icons/hi";
 import { FaHeart } from "react-icons/fa";
 import ChangedPrice from "./ChangedPrice";
